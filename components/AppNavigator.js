@@ -1,4 +1,5 @@
 import { createStackNavigator } from 'react-navigation';
+import React, { Component } from 'react';
 //app screens
 import Card from './Card';
 
