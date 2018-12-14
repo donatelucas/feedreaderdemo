@@ -1,20 +1,20 @@
 dependencies: \
-  /Users/Lucas/demo/node_modules/react-native/Libraries/Image/RCTImageShadowView.m \
-  /Users/Lucas/demo/node_modules/react-native/Libraries/Image/RCTImageShadowView.h \
-  /Users/Lucas/demo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
-  /Users/Lucas/demo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
-  /Users/Lucas/demo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLayout.h \
-  /Users/Lucas/demo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
-  /Users/Lucas/demo/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
-  /Users/Lucas/demo/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
-  /Users/Lucas/demo/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
-  /Users/Lucas/demo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
-  /Users/Lucas/demo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
-  /Users/Lucas/demo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
-  /Users/Lucas/demo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
-  /Users/Lucas/demo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
-  /Users/Lucas/demo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
-  /Users/Lucas/demo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
-  /Users/Lucas/demo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
-  /Users/Lucas/demo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
-  /Users/Lucas/demo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h
+  /Users/tylernguyen/feedreaderdemo/feedreaderdemo/node_modules/react-native/Libraries/Image/RCTImageShadowView.m \
+  /Users/tylernguyen/feedreaderdemo/feedreaderdemo/node_modules/react-native/Libraries/Image/RCTImageShadowView.h \
+  /Users/tylernguyen/feedreaderdemo/feedreaderdemo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Users/tylernguyen/feedreaderdemo/feedreaderdemo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/tylernguyen/feedreaderdemo/feedreaderdemo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLayout.h \
+  /Users/tylernguyen/feedreaderdemo/feedreaderdemo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/tylernguyen/feedreaderdemo/feedreaderdemo/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/tylernguyen/feedreaderdemo/feedreaderdemo/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/tylernguyen/feedreaderdemo/feedreaderdemo/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/tylernguyen/feedreaderdemo/feedreaderdemo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/tylernguyen/feedreaderdemo/feedreaderdemo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/tylernguyen/feedreaderdemo/feedreaderdemo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/tylernguyen/feedreaderdemo/feedreaderdemo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/tylernguyen/feedreaderdemo/feedreaderdemo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/tylernguyen/feedreaderdemo/feedreaderdemo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/tylernguyen/feedreaderdemo/feedreaderdemo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/tylernguyen/feedreaderdemo/feedreaderdemo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/tylernguyen/feedreaderdemo/feedreaderdemo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/tylernguyen/feedreaderdemo/feedreaderdemo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h

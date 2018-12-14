@@ -1,21 +1,14 @@
 import React, {Component} from 'react';
-import {StyleSheet, Image, Text, View} from 'react-native';
-import Header from './components/Header';
-import Card from './components/Card';
 
-export default class App extends Component {
+import AppNavigator from './components/AppNavigator';  
+
+
+//Main Class
+export default class BarHopper extends React.Component {
+
   render() {
-    return (
-        <View style = { styles.container }>
-            <Header />
-            <Card />
-        </View>
-    );
-  }
+   return (
+      <AppNavigator/>
+   );
+ }
 }
-
-const styles = StyleSheet.create ({
-    container: {
-        backgroundColor: 'white'
-    }
-})

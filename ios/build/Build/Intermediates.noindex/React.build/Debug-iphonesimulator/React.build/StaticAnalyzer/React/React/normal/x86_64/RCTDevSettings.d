@@ -1,23 +1,23 @@
 dependencies: \
-  /Users/Lucas/demo/node_modules/react-native/React/Modules/RCTDevSettings.mm \
-  /Users/Lucas/demo/node_modules/react-native/React/Modules/RCTDevSettings.h \
-  /Users/Lucas/demo/node_modules/react-native/React/Base/RCTBridge.h \
-  /Users/Lucas/demo/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
-  /Users/Lucas/demo/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
-  /Users/Lucas/demo/node_modules/react-native/React/Base/RCTDefines.h \
-  /Users/Lucas/demo/node_modules/react-native/React/Base/RCTBridgeModule.h \
-  /Users/Lucas/demo/node_modules/react-native/React/Base/RCTFrameUpdate.h \
-  /Users/Lucas/demo/node_modules/react-native/React/Base/RCTInvalidating.h \
-  /Users/Lucas/demo/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
-  /Users/Lucas/demo/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
-  /Users/Lucas/demo/node_modules/react-native/React/Base/RCTBridge+Private.h \
-  /Users/Lucas/demo/node_modules/react-native/React/Base/RCTEventDispatcher.h \
-  /Users/Lucas/demo/node_modules/react-native/React/Modules/RCTJSCSamplingProfiler.h \
-  /Users/Lucas/demo/node_modules/react-native/React/Base/RCTLog.h \
-  /Users/Lucas/demo/node_modules/react-native/React/Base/RCTAssert.h \
-  /Users/Lucas/demo/node_modules/react-native/React/Base/RCTUtils.h \
-  /Users/Lucas/demo/node_modules/react-native/React/Profiler/RCTProfile.h \
-  /Users/Lucas/demo/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
-  /Users/Lucas/demo/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
-  /Users/Lucas/demo/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
-  /Users/Lucas/demo/node_modules/react-native/React/Inspector/RCTInspectorPackagerConnection.h
+  /Users/tylernguyen/feedreaderdemo/feedreaderdemo/node_modules/react-native/React/Modules/RCTDevSettings.mm \
+  /Users/tylernguyen/feedreaderdemo/feedreaderdemo/node_modules/react-native/React/Modules/RCTDevSettings.h \
+  /Users/tylernguyen/feedreaderdemo/feedreaderdemo/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/tylernguyen/feedreaderdemo/feedreaderdemo/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/tylernguyen/feedreaderdemo/feedreaderdemo/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/tylernguyen/feedreaderdemo/feedreaderdemo/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/tylernguyen/feedreaderdemo/feedreaderdemo/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/tylernguyen/feedreaderdemo/feedreaderdemo/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/tylernguyen/feedreaderdemo/feedreaderdemo/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/tylernguyen/feedreaderdemo/feedreaderdemo/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/tylernguyen/feedreaderdemo/feedreaderdemo/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/tylernguyen/feedreaderdemo/feedreaderdemo/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/tylernguyen/feedreaderdemo/feedreaderdemo/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/tylernguyen/feedreaderdemo/feedreaderdemo/node_modules/react-native/React/Modules/RCTJSCSamplingProfiler.h \
+  /Users/tylernguyen/feedreaderdemo/feedreaderdemo/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/tylernguyen/feedreaderdemo/feedreaderdemo/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/tylernguyen/feedreaderdemo/feedreaderdemo/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/tylernguyen/feedreaderdemo/feedreaderdemo/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/tylernguyen/feedreaderdemo/feedreaderdemo/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
+  /Users/tylernguyen/feedreaderdemo/feedreaderdemo/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/tylernguyen/feedreaderdemo/feedreaderdemo/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/tylernguyen/feedreaderdemo/feedreaderdemo/node_modules/react-native/React/Inspector/RCTInspectorPackagerConnection.h

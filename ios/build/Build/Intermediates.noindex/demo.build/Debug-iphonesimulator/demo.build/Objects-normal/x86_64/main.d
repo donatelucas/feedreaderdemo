@@ -1,2 +1,3 @@
-dependencies: /Users/Lucas/demo/ios/demo/main.m \
-  /Users/Lucas/demo/ios/demo/AppDelegate.h
+dependencies: \
+  /Users/tylernguyen/feedreaderdemo/feedreaderdemo/ios/demo/main.m \
+  /Users/tylernguyen/feedreaderdemo/feedreaderdemo/ios/demo/AppDelegate.h

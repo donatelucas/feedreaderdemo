@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/Lucas/demo/node_modules/react-native/React/Views/SafeAreaView/RCTSafeAreaViewLocalData.m \
-  /Users/Lucas/demo/node_modules/react-native/React/Views/SafeAreaView/RCTSafeAreaViewLocalData.h
+  /Users/tylernguyen/feedreaderdemo/feedreaderdemo/node_modules/react-native/React/Views/SafeAreaView/RCTSafeAreaViewLocalData.m \
+  /Users/tylernguyen/feedreaderdemo/feedreaderdemo/node_modules/react-native/React/Views/SafeAreaView/RCTSafeAreaViewLocalData.h

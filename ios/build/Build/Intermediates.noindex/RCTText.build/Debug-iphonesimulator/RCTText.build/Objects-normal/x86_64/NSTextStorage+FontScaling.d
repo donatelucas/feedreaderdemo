@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/Lucas/demo/node_modules/react-native/Libraries/Text/Text/NSTextStorage+FontScaling.m \
-  /Users/Lucas/demo/node_modules/react-native/Libraries/Text/Text/NSTextStorage+FontScaling.h
+  /Users/tylernguyen/feedreaderdemo/feedreaderdemo/node_modules/react-native/Libraries/Text/Text/NSTextStorage+FontScaling.m \
+  /Users/tylernguyen/feedreaderdemo/feedreaderdemo/node_modules/react-native/Libraries/Text/Text/NSTextStorage+FontScaling.h

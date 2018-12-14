@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/Lucas/demo/node_modules/react-native/React/UIUtils/RCTUIUtils.m \
-  /Users/Lucas/demo/node_modules/react-native/React/UIUtils/RCTUIUtils.h
+  /Users/tylernguyen/feedreaderdemo/feedreaderdemo/node_modules/react-native/React/UIUtils/RCTUIUtils.m \
+  /Users/tylernguyen/feedreaderdemo/feedreaderdemo/node_modules/react-native/React/UIUtils/RCTUIUtils.h

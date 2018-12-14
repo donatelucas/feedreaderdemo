@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/Lucas/demo/node_modules/react-native/React/Modules/RCTI18nManager.m \
-  /Users/Lucas/demo/node_modules/react-native/React/Modules/RCTI18nManager.h \
-  /Users/Lucas/demo/node_modules/react-native/React/Base/RCTBridgeModule.h \
-  /Users/Lucas/demo/node_modules/react-native/React/Base/RCTDefines.h \
-  /Users/Lucas/demo/node_modules/react-native/React/Modules/RCTI18nUtil.h
+  /Users/tylernguyen/feedreaderdemo/feedreaderdemo/node_modules/react-native/React/Modules/RCTI18nManager.m \
+  /Users/tylernguyen/feedreaderdemo/feedreaderdemo/node_modules/react-native/React/Modules/RCTI18nManager.h \
+  /Users/tylernguyen/feedreaderdemo/feedreaderdemo/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/tylernguyen/feedreaderdemo/feedreaderdemo/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/tylernguyen/feedreaderdemo/feedreaderdemo/node_modules/react-native/React/Modules/RCTI18nUtil.h
